@@ -1,0 +1,19 @@
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.linkItem {
+  width: 100px;
+  text-align: center;
+  padding: 8px;
+  border-bottom: 5px solid transparent;
+}
+
+.linkItem:hover {
+  color: inherit;
+}
+
+.active{
+  border-bottom: 5px solid lightseagreen;
+}
