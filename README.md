@@ -10,5 +10,16 @@ npm run dev
 yarn dev
 ```
 
+Second, run the Json-Server for [fruits-api]
+
+```bash
+npm run json-server
+#or
+yarn json-server
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+Open [http://localhost:8000/fruits] to open server.
+
+This application displays names of all the fruits starting from alphabet [A] to alphabet [Z].
