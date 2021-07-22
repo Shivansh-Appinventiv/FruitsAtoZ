@@ -10,7 +10,7 @@ npm run dev
 yarn dev
 ```
 
-Second, run the Json-Server for [fruits-api]
+Second, run the Json-Server for [`fruits-api`](http://localhost:8000/fruits)
 
 ```bash
 npm run json-server
