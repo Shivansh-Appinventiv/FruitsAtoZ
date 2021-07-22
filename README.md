@@ -22,4 +22,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Open [`http://localhost:8000/fruits`](http://localhost:8000/fruits) to open server.
 
-This application displays names of all the fruits starting from alphabet [`A`] to alphabet [`Z`].
+This application displays names of all the fruits starting from alphabet [`A`](A) to alphabet [`Z`](Z).
