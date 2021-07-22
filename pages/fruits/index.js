@@ -6,6 +6,7 @@ import styles1 from "../../styles/common.module.css";
 import styles2 from "../../styles/fruits.module.css";
 import BreadCrumb from "../../components/BreadCrumb";
 import Link from "next/link";
+import { Typography } from "@material-ui/core";
 
 export const getStaticProps = async () => {
   const res = await fetch("http://localhost:8000/fruits");
@@ -39,16 +40,23 @@ export default function Fruits({ fruits }) {
               key={`alpha${outerIndex}`}
             >
               <div className={styles2.cardContainer}>
-                {fruitLetter?.alpha?.map((fruit, innerIndex) => {
-                  return (
-                    <FruitCard
-                      key={`alpha${innerIndex}`}
-                      fruitName={fruit.name}
-                      fruitPhoto={fruit.photo}
-                      fruitDes={fruit.description}
-                    />
-                  );
-                })}
+                {fruitLetter.available &&
+                  fruitLetter?.alpha?.map((fruit, innerIndex) => {
+                    return (
+                      <FruitCard
+                        key={`alpha${innerIndex}`}
+                        fruitName={fruit.name}
+                        fruitPhoto={fruit.photo}
+                        fruitDes={fruit.description}
+                      />
+                    );
+                  })}
+                {!fruitLetter.available && (
+                  <Typography
+                    variant={"h3"}
+                    style={{ width: "100%" }}
+                  >{`No Data Found`}</Typography>
+                )}
               </div>
             </Classifier>
           );

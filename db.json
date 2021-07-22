@@ -2,6 +2,7 @@
   "fruits": [
     {
       "letterName": "A",
+      "available": true,
       "alpha": [
         {
           "id": "alphaA_1",
@@ -31,6 +32,7 @@
     },
     {
       "letterName": "B",
+      "available": true,
       "alpha": [
         {
           "id": "alphaB_1",
@@ -48,6 +50,7 @@
     },
     {
       "letterName": "C",
+      "available": true,
       "alpha": [
         {
           "id": "alphaC_1",
@@ -83,6 +86,7 @@
     },
     {
       "letterName": "D",
+      "available": true,
       "alpha": [
         {
           "id": "alphaD_1",
@@ -101,6 +105,454 @@
           "name": "Dragon Fruit",
           "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
           "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/15.-Dragon-Fruit-%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%97%E0%A4%A8-%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%82%E0%A4%9F.jpg"
+        }
+      ]
+    },
+    {
+      "letterName": "E",
+      "available": true,
+      "alpha": [
+        {
+          "id": "alphaE_1",
+          "name": "Egg Fruit",
+          "description": "Non adipisicing nulla id sint esse id.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/16.-Eggfruit-%E0%A4%85%E0%A4%82%E0%A4%A1%E0%A5%87-%E0%A4%9C%E0%A5%88%E0%A4%B8%E0%A4%BE-%E0%A4%AB%E0%A4%B2.jpg"
+        }
+      ]
+    },
+    {
+      "letterName": "F",
+      "available": true,
+      "alpha": [
+        {
+          "id": "alphaF_1",
+          "name": "Egg Fruit",
+          "description": "Non adipisicing nulla id sint esse id.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/17.-Fig-%E0%A4%85%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%B0.jpg"
+        },
+        {
+          "id": "alphaF_2",
+          "name": "Feijoa",
+          "description": "Non adipisicing nulla id sint esse id.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/18.-Feijoa-%E0%A5%9E%E0%A5%87%E0%A4%9C%E0%A5%8B%E0%A4%86.jpg"
+        }
+      ]
+    },
+    {
+      "letterName": "G",
+      "available": true,
+      "alpha": [
+        {
+          "id": "alphaG_1",
+          "name": "Grapefruit",
+          "description": "Non adipisicing nulla id sint esse id.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/19.-Grapefruit-%E0%A4%9A%E0%A4%95%E0%A5%8B%E0%A4%A4%E0%A4%B0%E0%A4%BE.jpg"
+        },
+        {
+          "id": "alphaG_2",
+          "name": "Grapes",
+          "description": "Non adipisicing nulla id sint esse id.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/20.-Grapes-%E0%A4%85%E0%A4%82%E0%A4%97%E0%A5%82%E0%A4%B0.jpg"
+        },
+        {
+          "id": "alphaG_3",
+          "name": "Gooseberry",
+          "description": "Non adipisicing nulla id sint esse id.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/21.-Gooseberry-%E0%A4%95%E0%A4%B0%E0%A5%8C%E0%A4%82%E0%A4%A6%E0%A4%BE.jpg"
+        },
+        {
+          "id": "alphaG_4",
+          "name": "Guava",
+          "description": "Non adipisicing nulla id sint esse id.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/22.-Guava-%E0%A4%85%E0%A4%AE%E0%A4%B0%E0%A5%82%E0%A4%A6.jpg"
+        }
+      ]
+    },
+    {
+      "letterName": "H",
+      "available": true,
+      "alpha": [
+        {
+          "id": "alphaH_1",
+          "name": "Honeydew Melon",
+          "description": "Non adipisicing nulla id sint esse id.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/23.-Honeydew-melon-%E0%A4%AE%E0%A5%80%E0%A4%A0%E0%A4%BE-%E0%A4%A4%E0%A4%B0%E0%A4%AC%E0%A5%82%E0%A4%9C.jpg"
+        },
+        {
+          "id": "alphaH_2",
+          "name": "Honeyberry",
+          "description": "Non adipisicing nulla id sint esse id.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/24.-Honeyberry-%E0%A4%B9%E0%A4%A8%E0%A5%80-%E0%A4%AC%E0%A5%87%E0%A4%B0%E0%A5%80.jpg"
+        }
+      ]
+    },
+    {
+      "letterName": "J",
+      "available": true,
+      "alpha": [
+        {
+          "id": "alphaJ_1",
+          "name": "Jujube Fruit",
+          "description": "Non adipisicing nulla id sint esse id.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/25.-Jujube-Fruit-%E0%A4%AC%E0%A5%87%E0%A4%B0-%E0%A4%AB%E0%A4%B2.jpg"
+        },
+        {
+          "id": "alphaJ_2",
+          "name": "Jack Fruit",
+          "description": "Non adipisicing nulla id sint esse id.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/26.-Jackfruit-%E0%A4%95%E0%A4%9F%E0%A4%B9%E0%A4%B2.jpg"
+        }
+      ]
+    },
+    {
+      "letterName": "K",
+      "available": true,
+      "alpha": [
+        {
+          "id": "alphaK_1",
+          "name": "Kiwi",
+          "description": "Non adipisicing nulla id sint esse id.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/27.-Kiwi-%E0%A4%95%E0%A5%80%E0%A4%B5%E0%A5%80.jpg"
+        },
+        {
+          "id": "alphaK_2",
+          "name": "Kiwano",
+          "description": "Non adipisicing nulla id sint esse id.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/28.-Kiwano-%E0%A4%95%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%A8%E0%A5%8B%E0%A4%82.jpg"
+        },
+        {
+          "id": "alphaK_3",
+          "name": "Kumquat",
+          "description": "Non adipisicing nulla id sint esse id.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/29.-Kumquat-%E0%A4%95%E0%A5%87%E0%A4%AE%E0%A4%95%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%9F.jpg"
+        }
+      ]
+    },
+    {
+      "letterName": "L",
+      "available": true,
+      "alpha": [
+        {
+          "id": "alphaL_1",
+          "name": "Lime/Lemon",
+          "description": "Non adipisicing nulla id sint esse id.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/30.-Lime-Lemon-%E0%A4%A8%E0%A5%80%E0%A4%82%E0%A4%AC%E0%A5%82.jpg"
+        },
+        {
+          "id": "alphaL_2",
+          "name": "Longan/Lychee",
+          "description": "Non adipisicing nulla id sint esse id.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/31.-Longan-Lychee-%E0%A4%B2%E0%A5%80%E0%A4%9A%E0%A5%80.jpg"
+        },
+        {
+          "id": "alphaL_3",
+          "name": "Loquat",
+          "description": "Non adipisicing nulla id sint esse id.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/32.-Loquat-%E0%A4%B2%E0%A5%8B%E0%A4%95%E0%A4%BE%E0%A4%9F.jpg"
+        }
+      ]
+    },
+    {
+      "letterName": "M",
+      "available": true,
+      "alpha": [
+        {
+          "id": "alphaM_1",
+          "name": "Mango",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/33.-Mango-%E0%A4%86%E0%A4%AE.jpg"
+        },
+        {
+          "id": "alphaM_2",
+          "name": "Mulberry",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/34.-Mulberry-%E0%A4%B6%E0%A4%B9%E0%A4%A4%E0%A5%82%E0%A4%A4.jpg"
+        },
+        {
+          "id": "alphaM_3",
+          "name": "Melon",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/35.-Melon-%E0%A4%96%E0%A4%B0%E0%A4%AC%E0%A5%82%E0%A4%9C.jpg"
+        },
+        {
+          "id": "alphaM_4",
+          "name": "Mangosteen",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/36.-Mangosteen-%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A5%8B%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%80%E0%A4%A8.jpg"
+        },
+        {
+          "id": "alphaM_5",
+          "name": "Monk Fruit",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/37.-Monk-fruit-%E0%A4%B8%E0%A4%BE%E0%A4%A7%E0%A5%81-%E0%A4%AB%E0%A4%B2.jpg"
+        },
+        {
+          "id": "alphaM_6",
+          "name": "Makoy Fruit",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/39.-Makoy-Fruit-%E0%A4%B0%E0%A4%B8%E0%A4%AD%E0%A4%B0%E0%A5%80.jpg"
+        }
+      ]
+    },
+    {
+      "letterName": "N",
+      "available": true,
+      "alpha": [
+        {
+          "id": "alphaN_1",
+          "name": "Nectarine",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/38.-Nectarine-%E0%A4%B6%E0%A4%AB%E0%A4%BC%E0%A4%A4%E0%A4%BE%E0%A4%B2%E0%A5%82.jpg"
+        }
+      ]
+    },
+    {
+      "letterName": "O",
+      "available": true,
+      "alpha": [
+        {
+          "id": "alphaO_1",
+          "name": "Olive",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/41.-Olive-%E0%A4%9C%E0%A5%88%E0%A4%A4%E0%A5%82%E0%A4%A8.jpg"
+        },
+        {
+          "id": "alphaO_2",
+          "name": "Orange",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/42.-Orange-%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A4%82%E0%A4%97%E0%A5%80.jpg"
+        }
+      ]
+    },
+    {
+      "letterName": "P",
+      "available": true,
+      "alpha": [
+        {
+          "id": "alphaP_1",
+          "name": "Papaya",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/43.-Papaya-%E0%A4%AA%E0%A4%AA%E0%A5%80%E0%A4%A4%E0%A4%BE.jpg"
+        },
+        {
+          "id": "alphaP_2",
+          "name": "Persimmon",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/44.-Persimmon-%E0%A4%96%E0%A4%BC%E0%A5%81%E0%A4%B0%E0%A4%AE%E0%A4%BE-%E0%A4%A4%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%82-%E0%A4%AB%E0%A4%B2.jpg"
+        },
+        {
+          "id": "alphaP_3",
+          "name": "Prickly Pear",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/45.-Prickly-Pear-%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%9F%E0%A5%87%E0%A4%A6%E0%A4%BE%E0%A4%B0-%E0%A4%A8%E0%A4%BE%E0%A4%B6%E0%A4%AA%E0%A4%BE%E0%A4%A4%E0%A5%80.jpg"
+        },
+        {
+          "id": "alphaP_4",
+          "name": "Peach",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/46.-Peach-%E0%A4%86%E0%A4%A1%E0%A4%BC%E0%A5%82.jpg"
+        },
+        {
+          "id": "alphaP_5",
+          "name": "Pomegranate",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/47.-Pomegranate-%E0%A4%85%E0%A4%A8%E0%A4%BE%E0%A4%B0.jpg"
+        },
+        {
+          "id": "alphaP_6",
+          "name": "Pineapple",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/48.-Pineapple-%E0%A4%85%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%B8.jpg"
+        },
+        {
+          "id": "alphaP_7",
+          "name": "Palm Fruit",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/49.-Palm-fruit-%E0%A4%A4%E0%A4%BE%E0%A5%9C-%E0%A4%95%E0%A4%BE-%E0%A4%AB%E0%A4%B2.jpg"
+        }
+      ]
+    },
+    {
+      "letterName": "Q",
+      "available": true,
+      "alpha": [
+        {
+          "id": "alphaQ_1",
+          "name": "Quince",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/07/57-Quince.jpg"
+        }
+      ]
+    },
+    {
+      "letterName": "R",
+      "available": true,
+      "alpha": [
+        {
+          "id": "alphaR_1",
+          "name": "Raspberry",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/51.-Raspberry-%E0%A4%B0%E0%A4%B8%E0%A4%AD%E0%A4%B0%E0%A5%80.jpg"
+        },
+        {
+          "id": "alphaR_2",
+          "name": "Red Banana",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/52.-Red-Banana-%E0%A4%B2%E0%A4%BE%E0%A4%B2-%E0%A4%95%E0%A5%87%E0%A4%B2%E0%A4%BE.jpg"
+        }
+      ]
+    },
+    {
+      "letterName": "S",
+      "available": true,
+      "alpha": [
+        {
+          "id": "alphaS_1",
+          "name": "Strawberry",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/53.-Strawberry-%E0%A4%9D%E0%A4%B0%E0%A4%AC%E0%A5%87.jpg"
+        },
+        {
+          "id": "alphaS_2",
+          "name": "Soursop",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/54.-Soursop-%E0%A4%B2%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%8D%E0%A4%AE%E0%A4%A3-%E0%A4%AB%E0%A4%B2.jpg"
+        },
+        {
+          "id": "alphaS_3",
+          "name": "Salak",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/55.-Salak-%E0%A4%B8%E0%A4%BE%E0%A4%B2%E0%A4%95.jpg"
+        },
+        {
+          "id": "alphaS_4",
+          "name": "Star Apple",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/56.-Star-Apple-%E0%A4%B8%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%B0%E0%A4%BE-%E0%A4%AB%E0%A4%B2.jpg"
+        },
+        {
+          "id": "alphaS_5",
+          "name": "Sloe",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/57.-Sloe-%E0%A4%86%E0%A4%B2%E0%A5%82%E0%A4%AC%E0%A5%81%E0%A4%96%E0%A4%BE%E0%A4%B0%E0%A4%BE.jpg"
+        },
+        {
+          "id": "alphaS_6",
+          "name": "Sweet Potato",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/58.-Sweet-Potato-%E0%A4%B8%E0%A4%95%E0%A5%8D%E0%A4%95%E0%A4%B0%E0%A4%95%E0%A4%82%E0%A4%A6.jpg"
+        },
+        {
+          "id": "alphaS_7",
+          "name": "Sugar Cane",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/59.-Suger-Cane-%E0%A4%97%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A4%BE.jpg"
+        }
+      ]
+    },
+    {
+      "letterName": "T",
+      "available": true,
+      "alpha": [
+        {
+          "id": "alphaT_1",
+          "name": "Tomato",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/60.-Tomato-%E0%A4%9F%E0%A5%8B%E0%A4%AE%E0%A5%85%E0%A4%9F%E0%A5%8B.jpg"
+        },
+        {
+          "id": "alphaT_2",
+          "name": "Tangerine",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/61.-Tangerine-%E0%A4%B8%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A4%BE.jpg"
+        },
+        {
+          "id": "alphaT_3",
+          "name": "Tamarind",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/62.-Tamarind-%E0%A4%87%E0%A4%AE%E0%A4%B2%E0%A5%80.jpg"
+        },
+        {
+          "id": "alphaT_4",
+          "name": "Tart Cherry",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/63.-Tart-Cherry-%E0%A4%A4%E0%A5%80%E0%A4%96%E0%A4%BE-%E0%A4%9A%E0%A5%87%E0%A4%B0%E0%A5%80.jpg"
+        }
+      ]
+    },
+    {
+      "letterName": "U",
+      "available": false,
+      "alpha": []
+    },
+    {
+      "letterName": "V",
+      "available": true,
+      "alpha": [
+        {
+          "id": "alphaV_1",
+          "name": "Vanilla Bean",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/64.-Vanilla-Bean-%E0%A4%B5%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%BE-%E0%A4%AC%E0%A5%80%E0%A4%A8.jpg"
+        }
+      ]
+    },
+    {
+      "letterName": "W",
+      "available": true,
+      "alpha": [
+        {
+          "id": "alphaW_1",
+          "name": "Water Melon",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/65.-Watermelon-%E0%A4%A4%E0%A4%B0%E0%A4%AC%E0%A5%82%E0%A4%9C.jpg"
+        },
+        {
+          "id": "alphaW_2",
+          "name": "Wolfberry",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/66.-Wolfberry-%E0%A4%B5%E0%A5%89%E0%A4%B2%E0%A4%AB%E0%A4%AC%E0%A5%87%E0%A4%B0%E0%A5%80.jpg"
+        },
+        {
+          "id": "alphaW_3",
+          "name": "White Mulberry",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/67.-White-Mulberry-%E0%A4%B8%E0%A4%AB%E0%A5%87%E0%A4%A6-%E0%A4%B6%E0%A4%B9%E0%A4%A4%E0%A5%82%E0%A4%A4.jpg"
+        },
+        {
+          "id": "alphaW_4",
+          "name": "Wood Apple/Bael",
+          "description": "Pariatur deserunt enim dolor esse fugiat nisi nostrud incididunt.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/68.-Wood-Apple-Bael-%E0%A4%AC%E0%A5%87%E0%A4%B2.jpg"
+        }
+      ]
+    },
+    {
+      "letterName": "X",
+      "available": false,
+      "alpha": []
+    },
+    {
+      "letterName": "Y",
+      "available": true,
+      "alpha": [
+        {
+          "id": "alphaY_1",
+          "name": "Yam Bean",
+          "description": "Non adipisicing nulla id sint esse id.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/69.-Yam-Bean-%E0%A4%9C%E0%A5%80%E0%A4%95%E0%A4%BE-%E0%A4%AB%E0%A4%B2.jpg"
+        }
+      ]
+    },
+    {
+      "letterName": "Z",
+      "available": true,
+      "alpha": [
+        {
+          "id": "alphaZ_1",
+          "name": "Zucchini",
+          "description": "Non adipisicing nulla id sint esse id.",
+          "photo": "https://vocabadda.b-cdn.net/wp-content/uploads/2019/12/70.-Zucchini-%E0%A4%A4%E0%A5%81%E0%A4%B0%E0%A4%88.jpg"
         }
       ]
     }

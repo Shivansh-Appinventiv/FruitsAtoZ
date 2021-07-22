@@ -21,8 +21,8 @@ const useStyles = makeStyles((theme) => ({
 
 export default function Classifier({ children, name }) {
   const classes = useStyles();
-  const [expanded, setExpanded] = React.useState("alphaA");
   let alpha = `alpha${name}`;
+  const [expanded, setExpanded] = React.useState(alpha);
 
   console.log(children, name, alpha);
 
